@@ -3,12 +3,12 @@
 ## Motivation
 Strings are sequential, immutable, collections of zero or more letters, numbers and other symbols. We call these letters, numbers and other symbols characters. String values are differentiated from identifiers by using quotation marks (either single or double).
 
-The operations on Lists and strings are exactly the same EXCEPT that strings are immutable and cannot be modified. To modify a string, the .replace() method must be used an must be set to another variable
+The operations on Lists and strings are exactly the same EXCEPT that strings are immutable and cannot be modified. To modify a string, the .replace() method must be used and must be set to another variable
 
 ## Problem Description
-Write a python script that contains a `string_value` variable holding data "Hello universe"
+Write a python script that contains a `string_value` variable holding data "Hello Universe"
 Perform slicing of "Hello" from `string_value` variable and store the result in  `data` variable.
-Concatenate `data` variable with string value "World"  and store result in another variable `data_val`.
+Concatenate `data` variable with string value "World" and store result in another variable `data_val`.
 Print the result data.
 
 
