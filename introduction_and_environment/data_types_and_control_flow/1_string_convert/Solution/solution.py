@@ -1,5 +1,5 @@
 # Code your solution here
-string = input()
+string = input("Please input an all uppercase or all lowercase phrase\n")
 
 if string.isupper():
     string = string.lower()
